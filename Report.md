@@ -1156,7 +1156,7 @@ However, the results do better than the bechmark, but I cannot discuss this on a
 
 #### Figure 5.  Performance plots of different folds for the winning model.
 We find the training and validation scores are close initially but then diverge slightly when compared Model 1, see below. 
-<img src="TCNN_mdf_perfm.png" width="1000">
+<img src="TCNN_mdf_perfm.PNG" width="1000">
 
 #### Figure 6. Peforamance plots of Model 1. 
 In the first 20 epochs are fine but after which we observe the over fitting. 
