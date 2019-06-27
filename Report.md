@@ -1045,7 +1045,7 @@ data_by_surface.min()
 ### Visualizing
 #### Figure 1: Class distirbution. 
 Observe suraces are not uniformly distributed in this data. This means we need to keep an eye on the learning algorithm that it does not undersample from low frequency classes. 
-<img src="class_distribution.png" width="1000">
+<img src="class_distribution.PNG" width="1000">
 
 #### Figure 2: Density Curves by class
 Density curves here show the most variability in orientation curves. These curves have density curves that seem to be distinct for each surface, either by the mode location or number (since most appear to be multi-modal). The angular velocity shows some distinct behavior among few classes, but mostly unimodal centered around zero. The linear acceleration is the most concentrated about zero with much less spread, although some series take extreme values.
