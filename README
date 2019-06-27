@@ -1,0 +1,16 @@
+Machine Learning Nanodegree 
+capstone project
+
+The repository has code used in the analysis, and the report, the data, as well as figures that are used in the report. 
+See Report.ipynb or Report.md for details. 
+
+
+software requirement
+
+python 3.6
+numpy
+pandas
+matplotlib
+seaborn
+sklearn
+keras with Tesorflow as backend
